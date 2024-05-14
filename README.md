@@ -1,6 +1,6 @@
 ## Remaining
 
-- [ ] src/Algebra/Bundles.agda:910,5-7 -  -\_
+- [X] src/Algebra/Bundles.agda:910,5-7 -  -\_
 
 - [ ] src/Algebra/Definitions.agda:100,1-127,10 -  \_Absorbs\_, \_DistributesOver\_, \_DistributesOverʳ\_,
 
