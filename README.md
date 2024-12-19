@@ -2,21 +2,21 @@
 
 - [X] src/Algebra/Bundles.agda:910,5-7 -  -\_
 
-- [ ] src/Algebra/Definitions.agda:100,1-127,10 -  \_Absorbs\_, \_DistributesOver\_, \_DistributesOverʳ\_,
+- [X] src/Algebra/Definitions.agda:100,1-127,10 -  \_Absorbs\_, \_DistributesOver\_, \_DistributesOverʳ\_,
 
-- [ ] src/Algebra/Definitions/RawMagma.agda:69,1-72,5 -  \_∣∣\_, \_∤∤\_
+- [X] src/Algebra/Definitions/RawMagma.agda:69,1-72,5 -  \_∣∣\_, \_∤∤\_
 
-- [ ] src/Algebra/Module/Bundles.agda:243,5-8 -  -ᴹ\_
+- [X] src/Algebra/Module/Bundles.agda:243,5-8 -  -ᴹ\_
 
-- [ ] src/Algebra/Module/Definitions/Left.agda:34,1-38,21 -  \_DistributesOverʳ\_⟶\_, \_DistributesOverˡ\_
+- [X] src/Algebra/Module/Definitions/Left.agda:34,1-38,21 -  \_DistributesOverʳ\_⟶\_, \_DistributesOverˡ\_
 
-- [ ] src/Algebra/Module/Definitions/Right.agda:34,1-38,19 -  \_DistributesOverʳ\_, \_DistributesOverˡ\_⟶\_
+- [X] src/Algebra/Module/Definitions/Right.agda:34,1-38,19 -  \_DistributesOverʳ\_, \_DistributesOverˡ\_⟶\_
 
-- [ ] src/Algebra/Properties/Monoid/Divisibility.agda:29,1-4 -  ε∣\_
+- [X] src/Algebra/Properties/Monoid/Divisibility.agda:29,1-4 -  ε∣\_
 
-- [ ] src/Algebra/Properties/Semiring/Divisibility.agda:28,1-4 -  \_∣0
+- [X] src/Algebra/Properties/Semiring/Divisibility.agda:28,1-4 -  \_∣0
 
-- [ ] src/Algebra/Solver/Ring/AlmostCommutativeRing.agda:79,8-33 -  \_-Raw-AlmostCommutative⟶\_
+- [X] src/Algebra/Solver/Ring/AlmostCommutativeRing.agda:79,8-33 -  \_-Raw-AlmostCommutative⟶\_
 
 - [ ] src/Data/Container/Indexed.agda:82,3-97,12 -  \_⇒C[\_/\_]\_, \_⇒[\_/\_]\_, \_⊸[\_/\_]\_
 
